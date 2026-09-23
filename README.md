@@ -1,24 +1,41 @@
 <div align="center">
 
-# para
-
-<sub>software · cybersecurity · systems · experiments</sub>
-
-<br>
-
-> i break things to understand them, then build them better.
+<sub>just creating what i want and what i think.</sub>
 
 </div>
 
 <br>
 
-i like figuring out how things work.
+i like making computers do things they were never supposed to do.
 
-most of my time goes into experimenting with software, linux,
-automation, computer vision, local ai, and whatever else catches
-my attention.
+most things i build start with something like  
+*"wait, can i actually make this work?"*
 
-sometimes i build useful things.
-sometimes i build things just to see if i can.
+sometimes that means teaching a webcam to control a desktop.  
+sometimes it's messing with linux until it feels completely mine.  
+sometimes it's local models, automation, weird utilities, or some idea
+that probably didn't need to become a project.
+
+i don't really collect technologies.
+
+i just learn whatever i need to make the thing in my head exist.
+
 <br>
 
+```text
+~/para
+
+curiosity        ████████████████████
+overengineering  █████████████████░░░
+documentation    ███████░░░░░░░░░░░░░
+sleep            ████████████████████
+```
+
+<br>
+
+somewhere between  
+*"this should be possible"*  
+and  
+*"why did i spend six hours doing this?"*
+
+</div>
