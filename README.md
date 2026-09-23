@@ -2,40 +2,34 @@
 
 # para
 
-### software · linux · systems
+<sub>software · linux · systems · experiments</sub>
 
-*i just love tech.*
+<br>
+
+> i break things to understand them, then build them better.
 
 </div>
 
----
+<br>
 
 ### about
 
-I build things because I'm curious about how they work.
+i like figuring out how things work.
 
-Currently exploring software engineering, Linux, computer vision,
-local AI, automation, and low-level systems.
+most of my time goes into experimenting with software, linux,
+automation, computer vision, local ai, and whatever else catches
+my attention.
 
-### stack
+sometimes i build useful things.
 
-`Python` `Rust` `C++` `JavaScript` `Linux` `Git`
+sometimes i build things just to see if i can.
 
-### projects
+<br>
 
-**hand gesture mouse**  
-Computer vision based mouse controller using hand gestures.
+### interests
 
-**linux setup**  
-My Linux configurations, scripts, terminal setup and dotfiles.
-
-**web experiments**  
-Web applications, interfaces and backend experiments.
-
----
-
-<div align="center">
-
-learning. building. breaking things. fixing them.
-
-</div>
+```text
+linux             systems
+automation        computer vision
+local ai          desktop tooling
+software          weird experiments
